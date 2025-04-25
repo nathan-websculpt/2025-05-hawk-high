@@ -57,8 +57,6 @@ Check out [this](https://updraft.cyfrin.io/courses/advanced-foundry/upgradeable-
 
 [//]: # (getting-started-open)
 
-[//]: # (getting-started-close)
-
 ### Setup
 
 ```bash
@@ -78,6 +76,7 @@ Check out [this](https://updraft.cyfrin.io/courses/advanced-foundry/upgradeable-
 ```bash
     forge test
 ```
+[//]: # (getting-started-close)
 
 [//]: # (known-issues-open)
 
